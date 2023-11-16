@@ -1,4 +1,4 @@
-App Name, Version Code,Vulnerabilities
-espn, unknown,
+App Name, Version Code,Possible Vulnerabilities
+espn,11490,"shared preferences called ""hasSubscriptions"" ""hasActiveSubscriptions"" have not yet exploited them"
 barron,21602,
 Balance-meditation and sleep,564,
